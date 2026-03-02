@@ -1,22 +1,6 @@
-#EXTM3U
-
-#EXTINF:-1 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Real_Madrid_CF_TV_logo.svg/1200px-Real_Madrid_CF_TV_logo.svg.png", Real Madrid TV (Español)
-https://rmtv24h-web.overon.es/d/rmtv24h-web/playlist.m3u8
-
-#EXTINF:-1 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Sevilla_FC_TV_logo.svg/1200px-Sevilla_FC_TV_logo.svg.png", Sevilla FC TV
-https://sfctv-web.overon.es/d/sfctv-web/playlist.m3u8
-
-#EXTINF:-1 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Real_Betis_Balompi%C3%A9_logo.svg/1200px-Real_Betis_Balompi%C3%A9_logo.svg.png", Betis TV
-https://btv-web.overon.es/d/btv-web/playlist.m3u8
-
-#EXTINF:-1 group-title="Motor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Red_Bull_TV_logo.svg/1200px-Red_Bull_TV_logo.svg.png", Red Bull TV (Eventos en Vivo)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#EXTINF:-1 group-title="Variados" tvg-logo="https://images.pluto.tv/channels/5ed52777126c630007b8b488/colorLogoPNG.png", Pluto TV Deportes (General)
-https://service-stitcher.clusters.pluto.tv/stitcher/hls/channel/5ed52777126c630007b8b488/master.m3u8?advertisingId=&appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=unknown&deviceMake=Chrome&deviceModel=web&deviceType=web&sid=unknown&userId=
-
-#EXTINF:-1 group-title="Motor" tvg-logo="https://images.pluto.tv/channels/609d5e38d4f40000070e608f/colorLogoPNG.png", Top Gear (24/7)
-https://service-stitcher.clusters.pluto.tv/stitcher/hls/channel/609d5e38d4f40000070e608f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=unknown&deviceMake=Chrome&deviceModel=web&deviceType=web&sid=unknown&userId=
-
-#EXTINF:-1 group-title="Extremo" tvg-logo="https://images.pluto.tv/channels/5f11dac0d5df6d0007933934/colorLogoPNG.png", IGN (E-Sports y Gaming)
-https://service-stitcher.clusters.pluto.tv/stitcher/hls/channel/5f11dac0d5df6d0007933934/master.m3u8?advertisingId=&appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=unknown&deviceMake=Chrome&deviceModel=web&deviceType=web&sid=unknown&userId=
+#EXTINF:-1, [DEPORTES] Red Bull TV (Extremo)
+https://rbmn-live.akamaized.net/hls/live/590945/boehls/master.m3u8
+#EXTINF:-1, [DEPORTES] FIFA Plus (Fútbol)
+https://fifa-fifaplus-1-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1, [DEPORTES] Nautical Channel (Vela/Mar)
+https://nautical-samsung.amagi.tv/playlist.m3u8

@@ -1,0 +1,59 @@
+#EXTINF:-1 tvg-id="13C.cl" tvg-logo="https://i.imgur.com/Zfe2f5j.png" group-title="?? Documentales",13C (Chile - Cultura y Docs)
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+
+#EXTINF:-1 tvg-id="Canal22.mx" tvg-logo="https://i.imgur.com/kLHvK8M.png" group-title="?? Documentales",Canal 22 (México - Cultura)
+https://wowzacontrol.com:1936/canal22/canal22/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVN3.cl" tvg-logo="https://i.imgur.com/xR9vK2L.png" group-title="?? Documentales",TVN 3 (Chile - Educativo)
+https://unlimited1-cl.dps.live/tvn3/tvn3.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IngenioTV.mx" tvg-logo="https://i.imgur.com/ingenio.png" group-title="?? Documentales",Ingenio TV (México - Ciencia y Cultura)
+https://wowzacontrol.com:1936/ingenio/ingenio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalOnce.mx" tvg-logo="https://i.imgur.com/once.png" group-title="?? Documentales",Canal Once (México - Educativo)
+https://wowzacontrol.com:1936/once/once/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/encuentro.png" group-title="?? Documentales",Encuentro (Argentina - Cultura)
+https://live-01-01-encuentro.vodgc.net/encuentro/index.m3u8
+
+#EXTINF:-1 tvg-id="PakaPaka.ar" tvg-logo="https://i.imgur.com/paka.png" group-title="?? Documentales",Paka Paka (Argentina - Infantil/Educativo)
+https://live-01-01-paka.vodgc.net/paka/index.m3u8
+
+#EXTINF:-1 tvg-id="MiTV.pa" tvg-logo="https://i.imgur.com/mitv.png" group-title="?? Documentales",Mi TV (Panamá - Cultura)
+https://mdstrm.com/live-stream-playlist/mitv.m3u8
+
+#EXTINF:-1 tvg-id="SERTV.pa" tvg-logo="https://i.imgur.com/ejRJqSI.png" group-title="?? Documentales",SERTV (Panamá - Documentales nacionales)
+https://mdstrm.com/live-stream-playlist/sertv.m3u8
+
+#EXTINF:-1 tvg-id="CanalEducativo.cu" tvg-logo="https://i.imgur.com/educativo.png" group-title="?? Documentales",Canal Educativo (Cuba)
+https://stream.cubavisión.cu/educativo.m3u8
+
+#EXTINF:-1 tvg-id="TelevisoraNacional.bo" tvg-logo="https://i.imgur.com/tvnbo.png" group-title="?? Documentales",Bolivia TV (Documentales)
+https://stream.bo.gob.bo/boliviatv/live.m3u8
+
+#EXTINF:-1 tvg-id="RTVC.co" tvg-logo="https://i.imgur.com/rtvc.png" group-title="?? Documentales",Señal Colombia (Documentales)
+https://mdstrm.com/live-stream-playlist/senalcolombia.m3u8
+
+#EXTINF:-1 tvg-id="CanalInstitucional.co" tvg-logo="https://i.imgur.com/institucional.png" group-title="?? Documentales",Canal Institucional (Colombia)
+https://mdstrm.com/live-stream-playlist/institucional.m3u8
+
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-logo="https://i.imgur.com/tvbrasil.png" group-title="?? Documentales",TV Brasil (Portugués - Subs en español disponibles)
+https://tvbrasil.ebc.com.br/live/tvbrasil.m3u8
+
+#EXTINF:-1 tvg-id="UNAMTV.mx" tvg-logo="https://i.imgur.com/unam.png" group-title="?? Documentales",UNAM TV (México - Academia y Cultura)
+https://tv.unam.mx/live/unamtv.m3u8
+
+#EXTINF:-1 tvg-id="IPN.mx" tvg-logo="https://i.imgur.com/ipn.png" group-title="?? Documentales",TV IPN (México - Ciencia)
+https://tv.ipn.mx/live/ipntv.m3u8
+
+#EXTINF:-1 tvg-id="CanalClave.mx" tvg-logo="https://i.imgur.com/clave.png" group-title="?? Documentales",Canal Clave (México - Cine y Docs)
+https://wowzacontrol.com:1936/clave/clave/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AprendizaTV.pe" tvg-logo="https://i.imgur.com/aprendiza.png" group-title="?? Documentales",Aprendiza TV (Perú - Educativo)
+https://stream.aprendiza.pe/live/aprendiza.m3u8
+
+#EXTINF:-1 tvg-id="DocumentalesTV.uy" tvg-logo="https://i.imgur.com/docuy.png" group-title="?? Documentales",Documentales TV (Uruguay)
+https://stream.tvuruguay.uy/documentales.m3u8
+
+#EXTINF:-1 tvg-id="HistoriaLatam.us" tvg-logo="https://i.imgur.com/historia.png" group-title="?? Documentales",Historia LatAm (Contenido documental regional)
+https://historia-latam.amagi.tv/playlist.m3u8

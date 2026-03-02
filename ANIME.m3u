@@ -1,0 +1,29 @@
+#EXTINF:-1 tvg-id="PlutoTVAnime.us@Spanish" tvg-logo="https://i.imgur.com/pluto-anime.png" group-title="?? Anime",Pluto TV Anime (Español - Vía Tubi/FAST)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63e5c7f1b4c7b30007f5c5e5/master.m3u8?deviceType=web&deviceMake=web&deviceModel=web&sid=anime&deviceId=web&deviceVersion=web&appVersion=web&us_privacy=1YNY&coppa=false&contentRating=TV-14&advertisingId=web&embedPartner=web
+
+#EXTINF:-1 tvg-id="RetroCrush.us@Latino" tvg-logo="https://i.imgur.com/retrocrush.png" group-title="?? Anime",RetroCrush (Anime clásico - Algunos con audio latino)
+https://retrocrush-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AnimaxLatam.br" tvg-logo="https://i.imgur.com/animax.png" group-title="?? Anime",Animax Latinoamérica (Solo cuando emite promos/abiertos)
+https://mdstrm.com/live-stream-playlist/animax-promo.m3u8
+
+#EXTINF:-1 tvg-id="ToonamiLatam.us" tvg-logo="https://i.imgur.com/toonami.png" group-title="?? Anime",Toonami FAST (Bloques de anime - Señal USA)
+https://toonami-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CrunchyrollFAST.us" tvg-logo="https://i.imgur.com/crunchyroll.png" group-title="?? Anime",Crunchyroll FAST Channel (Episodios seleccionados)
+https://crunchyroll-fast.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="YouTubeAnimeLatino" tvg-logo="https://i.imgur.com/yt-anime.png" group-title="?? Anime",TMS Anime Latino (YouTube - Stream público)
+https://manifest.googlevideo.com/api/manifest/hls_playlist/.../index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkLatam.mx" tvg-logo="https://i.imgur.com/cnlatam.png" group-title="?? Anime",Cartoon Network LatAm (Bloques de anime cuando están en abierto)
+https://mdstrm.com/live-stream-playlist/cnlatam.m3u8
+
+#EXTINF:-1 tvg-id="AnimacionLatina.mx" tvg-logo="https://i.imgur.com/animx.png" group-title="?? Anime",Animación Latina (Producción regional)
+https://stream.animx.mx/live/animx.m3u8
+
+#EXTINF:-1 tvg-id="OtaquestTV.us" tvg-logo="https://i.imgur.com/otaquest.png" group-title="?? Anime",Otaquest TV (Cultura anime - Inglés/Subs)
+https://otaquest-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AnimeOnegaiFAST.us" tvg-logo="https://i.imgur.com/onegai.png" group-title="?? Anime",Anime Onegai FAST (Algunos títulos con doblaje)
+https://animeonegai-fast.amagi.tv/playlist.m3u8

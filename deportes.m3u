@@ -1,59 +1,22 @@
-#EXTINF:-1 tvg-id="Teledeporte.es" tvg-logo="https://i.imgur.com/8Vq3xKp.png" group-title="?? Deportes",Teledeporte (España - Disponible en LatAm)
-https://rtvelivestream-clnx.rtve.es/rtvesec/td/td_main_720.m3u8
+#EXTM3U
 
-#EXTINF:-1 tvg-id="CDNDeportes.do" tvg-logo="https://i.imgur.com/yU5LqTL.png" group-title="?? Deportes",CDN Deportes (Rep. Dominicana)
-http://200.125.170.122:8000/play/a03j/index.m3u8
+#EXTINF:-1 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Real_Madrid_CF_TV_logo.svg/1200px-Real_Madrid_CF_TV_logo.svg.png", Real Madrid TV (Español)
+https://rmtv24h-web.overon.es/d/rmtv24h-web/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVCDeportes.mx" tvg-logo="https://i.imgur.com/kLHvK8M.png" group-title="?? Deportes",TVC Deportes (México)
-https://wowzacontrol.com:1936/tvc/tvc/playlist.m3u8
+#EXTINF:-1 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Sevilla_FC_TV_logo.svg/1200px-Sevilla_FC_TV_logo.svg.png", Sevilla FC TV
+https://sfctv-web.overon.es/d/sfctv-web/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TeletrakTV.cl" tvg-logo="https://i.imgur.com/NoJvlig.png" group-title="?? Deportes",Teletrak TV (Chile)
-https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:-1 group-title="Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Real_Betis_Balompi%C3%A9_logo.svg/1200px-Real_Betis_Balompi%C3%A9_logo.svg.png", Betis TV
+https://btv-web.overon.es/d/btv-web/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FTV.bo" tvg-logo="https://i.imgur.com/YOr1Oac.png" group-title="?? Deportes",FTV (Bolivia)
-https://master.tucableip.com/ftvhd/index.m3u8
+#EXTINF:-1 group-title="Motor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Red_Bull_TV_logo.svg/1200px-Red_Bull_TV_logo.svg.png", Red Bull TV (Eventos en Vivo)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 tvg-id="AS3SportTV.ve" tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" group-title="?? Deportes",AS3 Sport TV (Venezuela)
-https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 group-title="Variados" tvg-logo="https://images.pluto.tv/channels/5ed52777126c630007b8b488/colorLogoPNG.png", Pluto TV Deportes (General)
+https://service-stitcher.clusters.pluto.tv/stitcher/hls/channel/5ed52777126c630007b8b488/master.m3u8?advertisingId=&appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=unknown&deviceMake=Chrome&deviceModel=web&deviceType=web&sid=unknown&userId=
 
-#EXTINF:-1 tvg-id="FIFAPlus.uk@HispanicAmerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_%282025%29.svg/700px-FIFA%2B_%282025%29.svg.png" group-title="?? Deportes",FIFA+ Hispanoamérica
-https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+#EXTINF:-1 group-title="Motor" tvg-logo="https://images.pluto.tv/channels/609d5e38d4f40000070e608f/colorLogoPNG.png", Top Gear (24/7)
+https://service-stitcher.clusters.pluto.tv/stitcher/hls/channel/609d5e38d4f40000070e608f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=unknown&deviceMake=Chrome&deviceModel=web&deviceType=web&sid=unknown&userId=
 
-#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/512px-FOX_Deportes_logo.png" group-title="?? Deportes",Fox Deportes (Señal USA - Español)
-https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/512px-ESPN_Deportes.svg.png" group-title="?? Deportes",ESPN Deportes (Señal USA - Español)
-https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
-
-#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="?? Deportes",beIN Sports XTRA en Español
-https://aegis-cloudfront-1.tubi.video/01f6c149-449b-4248-8bda-2278799205ec/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Combate.br" tvg-logo="https://i.imgur.com/ZPYK5jr.png" group-title="?? Deportes",Combate Global (MMA - Español)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
-
-#EXTINF:-1 tvg-id="GolTV.us" tvg-logo="https://i.imgur.com/goltv.png" group-title="?? Deportes",GolTV en Español (Fútbol)
-https://gol-tv-firetv.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DeportesTV.pe" tvg-logo="https://i.imgur.com/deportespe.png" group-title="?? Deportes",Deportes TV (Perú)
-https://stream.deportestv.pe/live/deportes.m3u8
-
-#EXTINF:-1 tvg-id="WinSports.co" tvg-logo="https://i.imgur.com/winsports.png" group-title="?? Deportes",Win Sports (Colombia - cuando emite en abierto)
-https://mdstrm.com/live-stream-playlist/winsports.m3u8
-
-#EXTINF:-1 tvg-id="RCNDeportes.co" tvg-logo="https://i.imgur.com/rcn.png" group-title="?? Deportes",RCN Deportes (Colombia)
-https://mdstrm.com/live-stream-playlist/rcndeportes.m3u8
-
-#EXTINF:-1 tvg-id="TigoSports.py" tvg-logo="https://i.imgur.com/tigo.png" group-title="?? Deportes",Tigo Sports Paraguay
-https://live.tigosports.com.py/hls/tigo.m3u8
-
-#EXTINF:-1 tvg-id="OlimpicaTV.co" tvg-logo="https://i.imgur.com/olimpica.png" group-title="?? Deportes",Olímpica TV (Colombia)
-https://mdstrm.com/live-stream-playlist/olimpica.m3u8
-
-#EXTINF:-1 tvg-id="CanalDelDeporte.ec" tvg-logo="https://i.imgur.com/cde.png" group-title="?? Deportes",Canal del Deporte (Ecuador)
-https://stream.cde.ec/live/cde.m3u8
-
-#EXTINF:-1 tvg-id="MaximaTV.hn" tvg-logo="https://i.imgur.com/maxima.png" group-title="?? Deportes",Máxima TV Deportes (Honduras)
-https://stream.maximatv.hn/deportes.m3u8
-
-#EXTINF:-1 tvg-id="SportyTV.us" tvg-logo="https://i.imgur.com/sporty.png" group-title="?? Deportes",SportyTV en Español (Contenido internacional)
-https://sporty-es.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Extremo" tvg-logo="https://images.pluto.tv/channels/5f11dac0d5df6d0007933934/colorLogoPNG.png", IGN (E-Sports y Gaming)
+https://service-stitcher.clusters.pluto.tv/stitcher/hls/channel/5f11dac0d5df6d0007933934/master.m3u8?advertisingId=&appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=unknown&deviceMake=Chrome&deviceModel=web&deviceType=web&sid=unknown&userId=
